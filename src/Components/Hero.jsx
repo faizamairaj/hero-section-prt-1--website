@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="max-w-[1240px] mx-auto font-semibold md:grid grid-cols-2 items-center">
         {/* Left Side - Text Content */}
         <div className="text-left p-4">
-          <div className="text-xl md:text-5xl md:p-[24px]">
+          <div className="text-xl md:text-5xl md:p-[24px] font-bold">
             A Place you
             <br /> eat healthy
           </div>
